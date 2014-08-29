@@ -1,4 +1,3 @@
-iggy-pop
+<h1>Iggy Pop</h1>
 ========
-
-Iggy Pop Repo
+<p>Iggy Pop is a singer and a fiend, according to some…I think he's awesome!</p>
