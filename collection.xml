@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="collection.xsl"?>
+<collection>
+	<item>
+		<title>Thingy Schmingy</title>
+		<color>Black</color>
+		<width>100cm</width>
+		<height>70cm</height>
+		<price>193SEK</price>
+		<year>2013</year>
+	</item>
+	<item>
+		<title>Another Thing</title>
+		<color>Brown</color>
+		<width>90cm</width>
+		<height>40cm</height>
+		<price>293SEK</price>
+		<year>2012</year>
+	</item>
+	<item>
+		<title>Cool Thing</title>
+		<color>Green</color>
+		<width>120cm</width>
+		<height>85cm</height>
+		<price>393SEK</price>
+		<year>2014</year>
+	</item>
+	<item>
+		<title>Fun Stuff</title>
+		<color>Purple</color>
+		<width>200cm</width>
+		<height>25cm</height>
+		<price>793SEK</price>
+		<year>2011</year>
+	</item>
+	<item>
+		<title>Thing Called Quest</title>
+		<color>Blue</color>
+		<width>75cm</width>
+		<height>30cm</height>
+		<price>493SEK</price>
+		<year>2012</year>
+	</item>
+	<item>
+		<title>Thingker</title>
+		<color>Green</color>
+		<width>120cm</width>
+		<height>40cm</height>
+		<price>193SEK</price>
+		<year>2012</year>
+	</item>
+	<item>
+		<title>Best Thing</title>
+		<color>Black</color>
+		<width>80cm</width>
+		<height>30cm</height>
+		<price>893SEK</price>
+		<year>2014</year>
+	</item>
+</collection>
+
