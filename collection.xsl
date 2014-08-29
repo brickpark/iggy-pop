@@ -31,6 +31,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		<xsl:apply-templates select="color" />
 		<xsl:apply-templates select="width" />
 		<xsl:apply-templates select="height" />
+		<xsl:apply-templates select="price" />
 		<xsl:apply-templates select="year" />
 	</tr>
 </xsl:template>
