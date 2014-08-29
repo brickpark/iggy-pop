@@ -59,6 +59,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
    </td>
 </xsl:template>
 
+<xsl:template match="price">
+   <td style="background: #888; color: #fff">
+      <xsl:apply-templates />
+   </td>
+</xsl:template>
+
 <xsl:template match="year">
    <td style="background: #000; color: #fff">
       <xsl:apply-templates />
